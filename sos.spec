@@ -14,7 +14,8 @@ SOS is a Polish store system, working in the most infallible OS
 (namely Linux). Package allows one to document and account supplies of 
 goods, creating invoices. It also contains KPiR (which is specific for 
 Polish accounting system).
-If you are not in Poland, you proablly won't use it any way.
+
+If you don't live in Poland, you probably won't use it anyway.
 
 %description -l pl
 SOS jest system magazynowym pracuj±cym w najbardziej niezawodnym
