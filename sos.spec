@@ -11,8 +11,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 SOS is a Polish store system, working in the most infallible OS 
-(namelly Linux). Package allows one to document and account supplies of 
-goods, creating invoices. It also contains KPiR (which is specyfic for 
+(namely Linux). Package allows one to document and account supplies of 
+goods, creating invoices. It also contains KPiR (which is specific for 
 Polish accounting system).
 
 %description -l pl
