@@ -1,11 +1,11 @@
 Summary:	Sos - Polish store system
-Summary(pl):	Sos - system magazynowy
+Summary(pl):	Sos - System Obslugi Sprzedazy 
 Name:		sos
-Version:	2.0.2
+Version:	2.0.4
 Release:	0.1
 License:	Demo of commercial application
 Group:		Applications
-Source0:	http://www.softservice.com.pl/storage/%{name}-demo-%{version}.tgz
+Source0:	http://www.softservice.com.pl/store/sos/%{name}-demo-%{version}.tgz
 URL:		http://sos.softservice.com.pl/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -14,6 +14,7 @@ SOS is a Polish store system, working in the most infallible OS
 (namely Linux). Package allows one to document and account supplies of 
 goods, creating invoices. It also contains KPiR (which is specific for 
 Polish accounting system).
+If you are not in Poland, you proablly won't use it any way.
 
 %description -l pl
 SOS jest system magazynowym pracuj±cym w najbardziej niezawodnym
