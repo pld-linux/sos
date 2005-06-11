@@ -6,6 +6,7 @@ Release:	0.1
 License:	Demo of commercial application
 Group:		Applications
 Source0:	http://www.softservice.com.pl/store/sos/%{name}-demo-%{version}.tgz
+# Source0-md5:	a9dc0c0ac04be91ae050d0b7cdb4194f
 URL:		http://sos.softservice.com.pl/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
