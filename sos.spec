@@ -1,5 +1,5 @@
 Summary:	Sos - Polish store system
-Summary(pl):	Sos - System Obslugi Sprzeda¿y 
+Summary(pl):	Sos - System Obs³ugi Sprzeda¿y 
 Name:		sos
 Version:	2.0.4
 Release:	0.1
