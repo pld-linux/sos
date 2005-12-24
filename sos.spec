@@ -1,5 +1,5 @@
 Summary:	Sos - Polish store system
-Summary(pl):	Sos - System Obslugi Sprzedazy 
+Summary(pl):	Sos - System Obslugi Sprzeda¿y 
 Name:		sos
 Version:	2.0.4
 Release:	0.1
@@ -20,7 +20,7 @@ If you don't live in Poland, you probably won't use it anyway.
 
 %description -l pl
 SOS jest system magazynowym pracuj±cym w najbardziej niezawodnym
-systemie operacyjnym jakim jest Linux. Pakiet pozwala na
+systemie operacyjnym jakim jest Linuks. Pakiet pozwala na
 dokumentowanie przyjêæ towarów do magazynu oraz wystawianie faktur
 sprzeda¿y oraz paragonów. Dodatkowo dostêpna jest prosta Podatkowa
 Ksi±¿ka Przychodów i Rozchodów umo¿liwiaj±ca rejestracjê zdarzeñ
